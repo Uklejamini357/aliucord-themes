@@ -1,0 +1,19 @@
+{
+    "manifest": {
+        "author": "uklejamini",
+        "name": "Wintery (Light)",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -7094298,
+        "background": -6634261,
+        "background_secondary": -13200149,
+        "mention_highlight": -15516576,
+        "active_channel": -9129233
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}

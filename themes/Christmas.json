@@ -1,0 +1,24 @@
+{
+    "manifest": {
+        "author": "uklejamini",
+        "name": "Christmas",
+        "version": "1.0.1"
+    },
+    "background": {
+        "overlay_alpha": 150,
+        "blur_radius": 1,
+        "url": "https:\/\/i.imgur.com\/8eFEgnC.jpeg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -1757278196,
+        "background": -1959587584,
+        "background_secondary": -1100077568,
+        "statusbar": -14013910,
+        "active_channel": -891866070,
+        "input_background": -620756992
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
