@@ -4,11 +4,15 @@
         "name": "Wintery (Light)",
         "version": "1.0.0"
     },
-    "background": {},
+    "background": {
+        "blur_radius": 1,
+        "overlay_alpha": 150,
+        "url": "https:\/\/raw.githubusercontent.com\/Uklejamini357\/aliucord-themes\/refs\/heads\/main\/assets\/Wintry_Light_theme_image.jpg"
+    },
     "fonts": {},
     "simple_colors": {
         "accent": -7094298,
-        "background": -6634261,
+        "background": -1097153301,
         "background_secondary": -863979026,
         "mention_highlight": -1754028590,
         "active_channel": -399388992
